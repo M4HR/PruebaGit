@@ -11,5 +11,5 @@ Manuel Huertas
 
 * Clonar repositorio 
 * Configurar cuenta de usuario local
-* Generar comits (Versiones) - Correccion
+* Generar comits (Versiones)
 * Sincronizar repositorio local con remoto
